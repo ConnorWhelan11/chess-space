@@ -1,0 +1,19 @@
+{
+  "name": "chess-space",
+  "version": "1.0.0",
+  "description": "Chess space. A place to play chess, in space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorWhelan11/chess-space.git"
+  },
+  "author": "cwhaleum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorWhelan11/chess-space/issues"
+  },
+  "homepage": "https://github.com/ConnorWhelan11/chess-space#readme"
+}
